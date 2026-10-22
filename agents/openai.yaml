@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Store Creative"
+  short_description: "用真實產品畫面製作一致、高轉換率的商店視覺素材"
+  default_prompt: "Use $app-store-creative to create a cohesive portrait store screenshot campaign from this app's real screens."
