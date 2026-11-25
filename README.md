@@ -1,6 +1,6 @@
 # App Store Creative（製作 App 商店圖的 AI Skill）
 
-> 「App 開發與上架入門」課程附贈。作者：江承祐（阿班）· Threads @your.engineer.ben
+> 「App 開發與上架入門」課程附贈。作者：江承祐（阿班）· Instagram [@your.engineer.ben](https://www.instagram.com/your.engineer.ben/) · 作品集 [apps.app.charonyu.cc](https://apps.app.charonyu.cc/)
 
 讓 AI 代理（Claude Code、Codex 等）用**真實的 App 畫面**，做出一致、好讀、高轉換率的 App Store / Google Play 截圖、啟動畫面與 App Icon。
 
